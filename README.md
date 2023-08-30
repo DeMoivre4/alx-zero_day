@@ -1,1 +1,1 @@
-My first readme
+Welcome to Ntsako the Great
